@@ -1,7 +1,6 @@
 # Hi, I'm Ranyah 👋  
 🎓 **Cybersecurity & Digital Forensics Student** | Ethical Hacking Enthusiast  
 🔍 Passionate about **penetration testing, digital forensics, and secure software development**  
-📚 Currently preparing for **eJPT** and **Security+**  
 🚀 Working on **cybersecurity projects**  
 
 ---
